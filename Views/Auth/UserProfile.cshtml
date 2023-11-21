@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="row">
+    <div class="col-9">
+        <h4 class="mt-4">
+            @ViewBag.UserProfile.FirstName @ViewBag.UserProfile.LastName
+        </h4>
+        <table class="table table-borderless col-5">
+            <tbody>
+            <tr>
+                <th class="row">Registered at:</th>
+                <th>@ViewBag.UserProfile.CreatedAt.ToLongDateString()</th>
+            </tr>
+            <tr>
+                <th class="row">User ID:</th>
+                <th>@ViewBag.UserProfile.UserId</th>
+            </tr>
+            <tr>
+                <th class="row">Email Address:</th>
+                <th>@ViewBag.UserProfile.Email</th>
+            </tr>
+            <tr>
+                <th class="row">Description:</th>
+                <th>@ViewBag.UserProfile.Description</th>
+            </tr>
+
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col-9 my-5 ms-3">
+        <h5>Leave a message for @ViewBag.UserProfile.FirstName</h5>
+        <partial name="_PostMessage"/>
+    </div>
+    <div class="col-7 my-3 ms-3">
+        @foreach (Message message in ViewBag.Messages)
+        {
+            <p></p>
+        }
+    </div>
+</div>
+
+

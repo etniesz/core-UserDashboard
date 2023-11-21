@@ -1,0 +1,29 @@
+﻿ @model EditUserInformation
+
+<h4>Your Informations:</h4>
+<hr class="dropdown-divider"/>
+<form asp-action="EditUserInformation" asp-controller="Auth" method="post">
+    <input type="hidden" name="UserId" value="@ViewBag.UserProfile.UserId"/>
+    <small>
+        <span asp-validation-for="FirstName" class="text-red-200"></span>
+    </small>
+    <div class="form-floating mb-3">
+        <input asp-for="FirstName" class="form-control" value="@ViewBag.UserProfile.FirstName" disabled>
+        <label asp-for="FirstName" class="col-form-label"></label>
+    </div>
+    <small>
+        <span asp-validation-for="LastName" class="text-red-200"></span>
+    </small>
+    <div class="form-floating mb-3">
+        <input asp-for="LastName" class="form-control" value="@ViewBag.UserProfile.LastName" disabled>
+        <label asp-for="LastName" class="col-form-label"></label>
+    </div>
+    <small>
+        <span asp-validation-for="Email" class="text-red-200"></span>
+    </small>
+    <div class="form-floating mb-3">
+        <input asp-for="Email" class="form-control" value="@ViewBag.UserProfile.Email" disabled>
+        <label asp-for="Email" class="col-form-label"></label>
+    </div>
+    <button type="submit" class="btn btn-primary float-end btn-lg my-3" id="btnsubmit-register-page" disabled>Save Info</button>
+</form>

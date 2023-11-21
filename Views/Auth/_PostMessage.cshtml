@@ -1,0 +1,12 @@
+﻿@model Message
+
+<form asp-action="" asp-controller="Home" method="post">
+    <input type="hidden" name="AuthorUserId" value="@ViewBag.UserLoggedIn.UserId"/>
+    <input type="hidden" name="TargetUserId" value="@ViewBag.UserProfile.UserId"/>
+    <div class="form-floating mb-3">
+        <textarea asp-for="MessageText" class="form-control" style="height: 150px" required></textarea>
+        <label asp-for="MessageText"></label>
+        <span class="text-danger" asp-validation-for="MessageText"></span>
+    </div>
+    <button class="btn btn-outline-primary mb-3 float-end">Post</button>
+</form>

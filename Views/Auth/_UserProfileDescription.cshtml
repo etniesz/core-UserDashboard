@@ -1,0 +1,15 @@
+﻿@model EditUserDescription
+
+<h4>Your Description:</h4>
+<hr class="dropdown-divider"/>
+<form asp-action="EditProfileDescription" asp-controller="Auth" method="post">
+    <input type="hidden" name="UserId" value="@ViewBag.UserProfile.UserId"/>
+    <small>
+        <span asp-validation-for="Description" class="text-red-200"></span>
+    </small>
+    <div class="form-floating mb-3">
+            <textarea name="Description" class="form-control" style="height: 120px" placeholder="Something" disabled>@ViewBag.UserProfile.Description</textarea>
+            <label asp-for="Description"></label>
+        </div>
+    <button type="submit" class="btn btn-primary btn-lg my-3 float-end" id="btnsubmit-register-page" disabled>Save Description</button>
+</form>

@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2 class="my-4">@ViewBag.UserProfile.FirstName Profile</h2>
+
+<div class="row">
+    <div class="col-5">
+        <partial name="_EditProfileInformation"/>
+    </div>
+    <div class="col-5">
+        <partial name="_EditProfilePassword"/>
+    </div>
+    <div class="col-10 mt-5">
+        <partial name="_EditProfileDescription"/>
+    </div>
+</div>

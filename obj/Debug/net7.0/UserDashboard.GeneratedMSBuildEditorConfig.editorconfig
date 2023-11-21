@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UserDashboard
+build_property.RootNamespace = UserDashboard
+build_property.ProjectDir = C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\ASP.NET\UserDashboard\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\ASP.NET\UserDashboard
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/CreateNewUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDcmVhdGVOZXdVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/loginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxsb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/LoginRegisterModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpblJlZ2lzdGVyTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/NewUserPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxOZXdVc2VyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/registerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxyZWdpc3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/UserProfile(OLD).cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxVc2VyUHJvZmlsZShPTEQpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxVc2VyUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/_EditProfileDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxfRWRpdFByb2ZpbGVEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/_EditProfileInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxfRWRpdFByb2ZpbGVJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/_EditProfilePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxfRWRpdFByb2ZpbGVQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/_PostMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxfUG9zdE1lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/_UserProfileDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxfVXNlclByb2ZpbGVEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/_UserProfileInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxfVXNlclByb2ZpbGVJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Auth/_UserProfilePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxfVXNlclByb2ZpbGVQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jaime/OneDrive/Documentos/Curso/Curso/ASP.NET/UserDashboard/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9vy814wao4
